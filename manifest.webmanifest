@@ -1,0 +1,25 @@
+{
+  "name": "JonKa Director",
+  "short_name": "Director",
+  "description": "Acceso a la pantalla privada del Director de IA de JonKa en Claude.",
+  "lang": "es-MX",
+  "start_url": "./?app=1",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0F2348",
+  "theme_color": "#0F2348",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
