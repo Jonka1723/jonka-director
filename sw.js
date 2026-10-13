@@ -1,6 +1,6 @@
 // Guarda solo el cascarón de la app (ícono y página de entrada) para que abra sin conexión.
 // No guarda ni toca datos del negocio: esos viven en Claude.
-const CACHE = 'jonka-director-v1';
+const CACHE = 'jonka-director-v2';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
